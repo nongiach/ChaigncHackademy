@@ -14,9 +14,13 @@ L'objectif final est de créer une communauté de partage qui s'entraide continu
 Dans le cadre de ce mentoring nous mettons en avant les valeurs du partage et de l'entraide mais surtout de l'éthique, ne pas attaquer les infrastructures d'entreprise, ne pas nuire à autruit.
 
 
-Merci à [@Grenadine][@Grenadine] et [@SaxX][@SaxX] pour leurs interventions, si vous souhaiter passer une heure pour expliquer des concepts que vous maitrisez, contactez moi [ici][@chaignc].
+Merci aux contributeurs ci-dessous pour leur intervention:
+* [@Grenadine][@Grenadine]
+* [@SaxX][@SaxX]
 
-[@chaignc]:https://twitter.com/chaignc
+Si **vous** avez du temps pour expliquer des quelques concepts que vous maitrisez, contactez moi [ici][@chaignc].
+
+---
 Mentoring en Bénévolat de Cybersécurité de la jeunesse du continent Africain.
 
 [@chaignc]:https://twitter.com/chaignc
