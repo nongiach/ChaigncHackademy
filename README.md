@@ -14,7 +14,7 @@ L'objectif final est de créer une communauté de partage qui s'entraide continu
 Dans le cadre de ce mentoring nous mettons en avant les valeurs du partage et de l'entraide mais surtout de l'éthique, ne pas attaquer les infrastructures d'entreprise, ne pas nuire à autruit.
 
 
-Merci aux contributeurs ci-dessous pour leur intervention:
+Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
 * [@SaxX][@SaxX]
 

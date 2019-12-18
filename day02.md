@@ -14,8 +14,8 @@ Date: de 22h à 1H00 le 18/12/2019
 * Explication d'outil d'énumération de chemin web avec wfuzz et gobuster.
 
 ## Résultat TP Day01
-Réussi:     Placide_RED, ken_dji, sancelisso, Emiya
-En Cours:   hbygh, Siegfried, Rhackelle26
+* Réussi:     Placide_RED, ken_dji, sancelisso, Emiya
+* En Cours:   hbygh, Siegfried, Rhackelle26
 
 ## Outils présentés
 
