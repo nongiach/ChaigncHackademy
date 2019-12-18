@@ -2,7 +2,7 @@
 
 Bonjour,
 
-le 16/12/2019 j'ai décidé de créer une session de mentoring en *bénévolat* pour nos amis Africains.
+le 16/12/2019 l'idée m'est venue de créer une session de mentoring en *bénévolat* pour nos amis Africains.
 Aprés quelques heures de recrutement le 17/12/2019 nous étions déjà 20 étudiants sur le discord pour commencer la première session.
 
 Depuis ce jour pendant un mois nous avons maintenu cette session de 3h tous les jours à 22h pour expliquer les concepts de la CyberSécurité pour apprendre à défendre les infrastructures, nous explorons les bases de l'informatique, protocole HTTP avec Burp et Wireshark, du reverse, de la crypto, de la Forensic et bien plus encore...
@@ -13,6 +13,7 @@ L'objectif final est de créer une communauté de partage qui s'entraide continu
 
 Dans le cadre de ce mentoring nous mettons en avant les valeurs du partage et de l'entraide mais surtout de l'éthique, ne pas attaquer les infrastructures d'entreprise, ne pas nuire à autruit.
 
+-- [@chaignc][@chaignc]
 
 Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
