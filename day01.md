@@ -3,7 +3,7 @@ Session donné par [@chaignc][@chaignc].
 
 Contributeur externe: [@Grenadine][@Grenadine].
 
-Date: de 22h à 0H30 le 17/12/2019
+Date: de 22h à 0H30 le 16/12/2019
 
 ## Contenu du cours
 

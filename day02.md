@@ -3,7 +3,7 @@ Session donné par [@chaignc][@chaignc].
 
 Contributeur externe: [@SaxX][@SaxX]
 
-Date: de 22h à 1H00 le 18/12/2019
+Date: de 22h à 1H00 le 17/12/2019
 
 ## Contenu du cours
 
