@@ -8,7 +8,7 @@ Date: de 22h à 0H30 le 17/12/2019
 ## Contenu du cours
 
 * Introduction de la formation
-* Explication des attaques ransomware et fait une démo d'un ransomware.
+* Explication des attaques ransomware et démo d'un ransomware dans une machine virtuelle.
 * Explication de netstat/ss et ifconfig/ip.
 * Explication du VPN et configuration d'un client openvpn.
 * Explication de l'IP publique.
