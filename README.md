@@ -17,7 +17,7 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
 * [@SaxX][@SaxX]
 
-Si **vous** avez du temps pour expliquer des quelques concepts que vous maitrisez, contactez moi [ici][@chaignc].
+Si **vous** avez du temps pour expliquer quelques concepts que vous maitrisez, contactez moi [ici][@chaignc].
 
 ---
 Mentoring en Bénévolat de Cybersécurité de la jeunesse du continent Africain.
