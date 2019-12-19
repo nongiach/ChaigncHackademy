@@ -3,11 +3,11 @@ Session donné par [@chaignc][@chaignc].
 
 Contributeur externe: [][]
 
-Date: de Xh à XHXX le 18/12/2019
+Date: de Xh à XHXX le XX/XX/2019
 
 ## Contenu du cours
 
-* TP du Day2 présenté par @Kyb3R
+* 
 * 
 * 
 
@@ -17,7 +17,7 @@ Date: de Xh à XHXX le 18/12/2019
 
 ## Outils présentés
 
-dirsearch, wireshark, gobuster, wfuzz, openvpn
+cd, wc -l, cat, find, grep, regex, home, sha1, /etc/shadow, /etc/shadow, johntheripper
 
 ## Commandes présentées
 ```sh

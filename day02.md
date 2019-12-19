@@ -8,6 +8,7 @@ Date: de 22h à 1H00 le 17/12/2019
 ## Contenu du cours
 
 * TP du Day1 présenté par Guillaume ( @guyak89 )
+  Utilisationll
 * Explication des sessions et des cookies.
 * Explication du protocol HTTP, codes d'erreurs, path, URI, URL.
 * Explication de l'OSINT, github, linkedin et google dork.
