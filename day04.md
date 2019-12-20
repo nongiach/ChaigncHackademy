@@ -1,17 +1,16 @@
-# ChaigncHackademy DayXX
+# ChaigncHackademy Day04
 Session donné par [@chaignc][@chaignc].
 
-Contributeur externe: [][]
+Contributeur externe: [@PHA][PHA]
 
-Date: de Xh à XHXX le XX/XX/2019
+Date: de 22H00 à 00H24 le 19/12/2019
 
 ## Contenu du cours
 
-* 
-* 
-* 
+* Concepts de base des Expressions régulières 
+* Les commandes de base en Linux
 
-## Résultat TP DayXX
+## Résultat TP Day04
 * Réussi:
 * En Cours:
 
@@ -21,14 +20,25 @@ cd, wc -l, cat, find, grep, regex, home, sha1, /etc/shadow, /etc/shadow, johnthe
 
 ## Commandes présentées
 ```sh
-cmd a
-man b
+grep -rn test
+echo -e "test\ntutu\ntata\n"
+echo -e "test\ntutu\ntata\n" | grep test
+echo -e "test\ntutu\ntata\n" | grep "t.*a"
+echo -e "test\ntutu\ntata\n" | grep "a$"
+echo -e "test\ntutu\naaaa\n" | grep "^t"
+cat /etc/issue
+pwd
+tshark -r Evil\ Elf.pcap -Y 'frame.number == 998' -T fields -e ip.dst
+echo -e "test\ntutu\n44\n" | grep '[0-9]'
+find -iname "metasploit"
+find -iname "test"
+ssh -p 2222 app-systeme-ch13@challenge02.root-me.org
 ```
 
 ## Liens / Ressources
-* []()
-* []()
-* []()
+* [RegExp (Wiki)](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re)
+* [Test RegExp Online](https://regexr.com/)
+* [Linux basics](https://www.pyramidhackers.com/pyramid/linux/co/module_Ubuntu18_4.html)
 
 
 [@chaignc]:https://twitter.com/chaignc
