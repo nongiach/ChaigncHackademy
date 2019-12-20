@@ -12,7 +12,7 @@ Date: de 22h à 00H00 le 18/12/2019
 * Potocoles OSI présenté par @spider
 
 ## Résultat TP Day3
-* Réussi: @hbygh, @Kyb3R, @sancelisso, @Rhackelle26, @selom
+* Réussi: @hbygh, @Kyb3R, @sancelisso, @Rhackelle26, @selom, @Emiya, @Siegfried, @Ph03nix, @Placide_RED, @guyak89
 * En Cours:
 
 ## Outils présentés
