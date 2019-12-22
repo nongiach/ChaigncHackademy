@@ -14,6 +14,7 @@ Date: de 22h à 0H30 le 16/12/2019
 * Explication de l'IP publique.
 * Explication du proxy et configuration de burp.
 * Explication du protocol HTTP et altération de l'useragent.
+* Décodage de caractères
 
 ## Outils présentés
 
@@ -40,6 +41,7 @@ man curl
 
 [python](https://www.python.org/)
 
+[Cyberchef](https://gchq.github.io/CyberChef/)
 
 [@chaignc]:https://twitter.com/chaignc
 [hexpresso]:https://hexpresso.github.io
