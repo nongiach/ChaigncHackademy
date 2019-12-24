@@ -62,6 +62,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 * [REGEXP](https://regexr.com/)
 * [MAITRISER LES REGEXP](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
 * [FUZZY FINDER](https://github.com/junegunn/fzf)
+* [DAY 5 FULL VIDEO](https://www.youtube.com/watch?v=qMJf3nAmcBM)
 
 
 
