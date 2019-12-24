@@ -11,12 +11,13 @@ La pièce maitresse de ce mentoring est son passage par la pratique. Chaque jour
 
 Les valeurs de notre communauté sont : partage, entraide continuel, mais surtout l'éthique; ne pas attaquer les infrastructures d'entreprise, ne pas nuire à autruit. De cette communauté, ces étudiants auront par la suite à former d'autres étudiants.
 
--- [@chaignc][@chaignc]
+--
+* [@chaignc][@chaignc] : Fondateur
+* [Adama][Adama] : Associé
+* [@genieyou][@genieyou] : Associé
+* [@SaxX][@SaxX] : Associé
 
 Merci aux contributeurs ci-dessous pour leurs interventions:
-* [Adama][Adama]
-* [@SaxX][@SaxX]
-* [@genieyou][@genieyou]
 * [@Grenadine][@Grenadine]
 
 
