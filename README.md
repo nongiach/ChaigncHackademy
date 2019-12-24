@@ -2,7 +2,7 @@
 
 Bonjour,
 
-le *15/12/2019* nous avons ouvert ChaigncHackademy, une école en ligne gratuite pour la jeunesse du continent Africain.
+le *15/12/2019* nous avons ouvert ChaigncHackademy, une académie en ligne gratuite pour la jeunesse du continent Africain.
 L'objectif est de former la future élite Africaine en matière de CyberDefense.
 
 Chaque soir du lundi au vendredi, nous entreprenons une conférence de 22H heure française jusqu'a 1H am pour expliquer les concepts de la CyberSécurité afin d'apprendre à défendre les infrastructures. Ceci faisant, nous explorons les bases de l'informatique, protocoles HTTP, DNS, FTP, DNSSEC, LDAP, SSH,  avec Burp et Wireshark, du reverse, de la crypto, de la Forensic et bien plus encore...
@@ -24,7 +24,6 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 Nous sommes déjà a 18 heures de conférences à ce jour (23/12/2019), si **vous** avez 30 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
 
 ---
-Mentoring en Bénévolat de Cybersécurité de la jeunesse du continent Africain.
 
 [@chaignc]:https://twitter.com/chaignc
 [hexpresso]:https://hexpresso.github.io
