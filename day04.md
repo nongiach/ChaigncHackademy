@@ -11,8 +11,8 @@ Date: de 22H00 à 00H24 le 19/12/2019
 * Les commandes de base en Linux
 
 ## Résultat TP Day04
-* Réussi:
-* En Cours:
+* Réussi:Siegfried, Kyb3R, tisemtine, sancelisso, selom, hbygh,
+* En Cours:Cyr,sosso, 3l4un1ck,notorious.r.a.c , ken_dji, guyak89, Placide_RED
 
 ## Outils présentés
 
