@@ -1,18 +1,26 @@
 # ChaigncHackademy DayXX
 Session donné par [@chaignc][@chaignc].
 
-Contributeur externe: [][]
+Contributeur externe: [@SaxX][@SaxX]
 
-Date: de Xh à XHXX le XX/XX/2019
+Date: de 22h à 1H00 le 23/12/2019
 
 ## Contenu du cours
 
-*  Data Exfiltration
-*  Wireshark HTTP Object
-*  Wireshark filters
-*  DNS protocol
-*  zip2john
-*  johntheripper
+* Présentation du TP par hbygh
+* Wayback machine
+* Data Exfiltration
+* Wireshark HTTP Object
+* Wireshark filters
+* DNS protocol
+* zip2john
+* johntheripper
+* Saxx:
+* Bruteforce de DNS
+* Delgation DNS
+* sous domaine
+* résolution d'un nom de domaine
+
 
 ## Résultat TP DayXX
 * Réussi:

@@ -12,6 +12,7 @@
 # Sujet à aborder
 
 * Learn C: https://www.learn-c.org
+* LPE Windows/Linux lab https://github.com/sagishahar/lpeworkshop/blob/master/Lab%20Exercises%20Walkthrough%20-%20Linux.pdf
 
 ## gist
 
