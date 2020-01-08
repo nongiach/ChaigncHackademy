@@ -7,7 +7,7 @@ Date: de Xh à XHXX le XX/XX/2019
 
 ## Contenu du cours
 
-* 
+* Presentation du TP par: 
 * 
 * 
 

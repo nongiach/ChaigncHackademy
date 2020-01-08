@@ -7,7 +7,7 @@ Date: de Xh à XHXX le XX/XX/2019
 
 ## Contenu du cours
 
-* 
+* Presentation du TP par: 
 * 
 * 
 
@@ -17,7 +17,7 @@ Date: de Xh à XHXX le XX/XX/2019
 
 ## Outils présentés
 
-cd, wc -l, cat, find, grep, regex, home, sha1, /etc/shadow, /etc/shadow, johntheripper
+a, b, c
 
 ## Commandes présentées
 ```sh
