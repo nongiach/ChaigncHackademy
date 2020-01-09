@@ -14,9 +14,10 @@ Les valeurs de notre communauté sont : partage, entraide continuel, mais surtou
 ---
 
 * [@chaignc][@chaignc] : Fondateur
+* [@SaxX][@SaxX] : Associé
 * [Adama][Adama] : Associé
 * [@genieyou][@genieyou] : Associé
-* [@SaxX][@SaxX] : Associé
+
 
 Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
