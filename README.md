@@ -25,6 +25,22 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 
 Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vous** avez 30 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
 
+#### Pays des membres actifs
+
+| Pays         	        | Etudiants 	| Pseudo                                                                                                         	|
+|-------------------	|-------------------	|----------------------------------------------------------------------------------------------------------------	|
+| ![bj] Bénin        	<br> « Fraternité - Justice - Travail » | 10                	| 3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, sancelisso 	|
+| ![bf] Burkina Faso 	<br> « Unité - Progrès - Justice » | 1                 	| sosso                                                                                                          	|      	|
+| ![tg] Togo         	<br> « Travail - Liberté - Patrie »  | 5                 	| agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine                                       	|
+| ![sn] Sénégal      	<br> « Un Peuple - Un But - Une Foi »  | 2                 	| notorious.r.a.c, selom                                                                                       	|  	|
+| ?            	        | 3                 	| ahouefa, guyak89, hbygh                                                                                    	|
+
+
+[bj]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png
+[bf]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png
+[tg]:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png
+[sn]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png
+
 ---
 
 [@chaignc]:https://twitter.com/chaignc
