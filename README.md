@@ -41,6 +41,8 @@ Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vou
 [tg]:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png
 [sn]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png
 
+**Si tu n'as pas peur d'étudier 10h par semaine avec ChaigncHackademy fais-moi un message privé sur [Twitter @chaignc][@chaignc]** 
+
 ---
 
 [@chaignc]:https://twitter.com/chaignc
