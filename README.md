@@ -56,7 +56,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
     <td>1</td>
-    <td>chaignc</td>
+    <td><a href="https://twitter.com/chaignc">@chaignc</a></td>
   </tr>
   <tr>
     <td><img src="" width="20"> ?</td>
