@@ -64,9 +64,10 @@ Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vou
     <td>ahouefa, guyak89, hbygh</td>
   </tr>
   <tr>
-    <td>ChaigncHackademy <br>« Ethique, Partage, Défense »  <td>
-    <td>25<td>
-    <td>Membres<td>
+    <td>ChaigncHackademy <br>« Ethique, Partage, Défense »</td>
+    <td>25</td>
+    <td>Membres</td>
+  </tr>
 </table> 
 
 **Si tu n'as pas peur d'étudier 10h par semaine avec ChaigncHackademy fais-moi un message privé sur [Twitter @chaignc][@chaignc]** 
