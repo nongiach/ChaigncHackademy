@@ -46,7 +46,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
     <td>7</td>
-    <td>Adama, agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine, selom </td>
+    <td>Adama, agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine, <a href="https://twitter.com/banybah">selom</a> </td>
   </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
