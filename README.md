@@ -60,12 +60,12 @@ Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vou
   </tr>
   <tr>
     <td><img src="" width="20"> ?</td>
-    <td>3</td>
-    <td>ahouefa, guyak89, hbygh</td>
+    <td>2</td>
+    <td>guyak89, hbygh</td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>25</td>
+    <td>24</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table> 
