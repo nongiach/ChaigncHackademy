@@ -23,7 +23,7 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
 
 
-Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vous** avez 30 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
+Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vous** avez 10 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
 
 #### Pays des membres actifs
 
