@@ -27,19 +27,47 @@ Nous comptons déjà 18 heures de conférences à ce jour (23/12/2019), si **vou
 
 #### Pays des membres actifs
 
-| Pays         	        | Etudiants 	| Pseudo                                                                                                         	|
-|-------------------	|-------------------	|----------------------------------------------------------------------------------------------------------------	|
-| ![bj] Bénin        	<br> « Fraternité - Justice - Travail » | 11               	| 3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, sancelisso, ahouefa 	|
-| ![bf] Burkina Faso 	<br> « Unité - Progrès - Justice » | 1                 	| sosso                                                                                                          	|      	|
-| ![tg] Togo         	<br> « Travail - Liberté - Patrie »  | 5                 	| agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine                                       	|
-| ![sn] Sénégal      	<br> « Un Peuple - Un But - Une Foi »  | 2                 	| notorious.r.a.c, selom                                                                                       	|  	|
-| ?            	        | 3                 	| ahouefa, guyak89, hbygh                                                                                    	|
-
-
-[bj]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png
-[bf]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png
-[tg]:https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png
-[sn]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png
+ <table style="width:100%">
+  <tr>
+    <th>Pays
+    <th>Etudiants</th>
+    <th>Pseudo</th>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
+    <td>11</td>
+    <td>3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, sancelisso, ahouefa </td>
+  </tr> 
+     <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
+    <td>1</td>
+    <td>sosso</td>
+  </tr> 
+    <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
+    <td>6</td>
+    <td>Adama, agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine </td>
+  </tr>
+    <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
+    <td>3</td>
+    <td>notorious.r.a.c, saxx, selom</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
+    <td>1</td>
+    <td>chaignc</td>
+  </tr>
+  <tr>
+    <td><img src="" width="20"> ?</td>
+    <td>3</td>
+    <td>ahouefa, guyak89, hbygh</td>
+  </tr>
+  <tr>
+    <td>ChaigncHackademy : « Ethique, Partage, Défense »  <td>
+    <td>25<td>
+    <td>Membres<td>
+</table> 
 
 **Si tu n'as pas peur d'étudier 10h par semaine avec ChaigncHackademy fais-moi un message privé sur [Twitter @chaignc][@chaignc]** 
 
