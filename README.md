@@ -45,13 +45,13 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr> 
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>6</td>
-    <td>Adama, agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine </td>
+    <td>7</td>
+    <td>Adama, agretsuko_susanoo66, Ambroise, geth1s_One$, Siegfried,<br>tisemtine, selom </td>
   </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
-    <td>3</td>
-    <td>notorious.r.a.c, saxx, selom</td>
+    <td>2</td>
+    <td>notorious.r.a.c, saxx</td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
