@@ -36,7 +36,19 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>11</td>
-    <td>3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, <a href="https://twitter.com/LissanonCedric">Sancelisso</a>, ahouefa </td>
+    <td>
+    3l4un1ck,
+    Cyr,
+    Emiya,
+    ken_dji,
+    Kyb3R,
+    Lolhack,<br>
+    ph03nix,
+    Placide_RED,
+    Rhackelle26,
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
+    ahouefa
+    </td>
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
@@ -48,14 +60,16 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>8</td>
     <td>
       Adama,
+      ahouefa
       agretsuko_susanoo66,
       Ambroise,
       geth1s_One$,
-      [Siegfried](https://twitter.com/Xwxlxe),
+      <a href="https://twitter.com/hbyghs"> hbygh</a>
+      <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <br>tisemtine,
       <a href="https://twitter.com/banybah">selom</a>
-      <a href="https://twitter.com/hbyghs"> hbygh</a>
      </td>
+    <td>7</td>
   </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
