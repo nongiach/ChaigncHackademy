@@ -36,13 +36,13 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>11</td>
-    <td>3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, sancelisso, ahouefa </td>
-  </tr> 
+    <td>3l4un1ck, Cyr, Emiya, ken_dji, Kyb3R, Lolhack,<br>ph03nix, Placide_RED, Rhackelle26, <a href="https://twitter.com/LissanonCedric">Sancelisso</a>, ahouefa </td>
+  </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
     <td>1</td>
     <td>sosso</td>
-  </tr> 
+  </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
     <td>7</td>
@@ -68,9 +68,9 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>24</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
-</table> 
+</table>
 
-**Si tu n'as pas peur d'étudier 10h par semaine avec ChaigncHackademy fais-moi un message privé sur [Twitter @chaignc][@chaignc]** 
+**Si tu n'as pas peur d'étudier 10h par semaine avec ChaigncHackademy fais-moi un message privé sur [Twitter @chaignc][@chaignc]**
 
 ---
 
