@@ -38,6 +38,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>11</td>
     <td>
     3l4un1ck,
+    ahouefa
     Cyr,
     Emiya,
     ken_dji,
@@ -46,8 +47,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     ph03nix,
     Placide_RED,
     Rhackelle26,
-    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
-    ahouefa
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
     </td>
   </tr>
      <tr>
@@ -57,7 +57,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>8</td>
+    <td>9</td>
     <td>
       Adama,
       ahouefa
@@ -66,7 +66,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
       geth1s_One$,
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
-      <br>tisemtine,
+      tisemtine,
       <a href="https://twitter.com/banybah">selom</a>
      </td>
     <td>7</td>
@@ -88,7 +88,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>24</td>
+    <td>25</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
