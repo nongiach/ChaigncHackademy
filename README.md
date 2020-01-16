@@ -35,7 +35,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>11</td>
+    <td>13</td>
     <td>
     3l4un1ck,
     ahouefa,
@@ -90,7 +90,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>25</td>
+    <td>27</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
