@@ -47,7 +47,8 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     ph03nix,
     Placide_RED,
     Rhackelle26,
-    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
+    <a href="https://twitter.com/arielalinkan">Rozzario</a>
     </td>
   </tr>
      <tr>
