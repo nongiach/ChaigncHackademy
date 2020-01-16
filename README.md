@@ -46,7 +46,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     Lolhack,<br>
     ph03nix,
     Placide_RED,
-    Rhackelle26,
+    <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
     </td>
   </tr>
