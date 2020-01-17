@@ -64,7 +64,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>guyak89, hbygh</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> N/A</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> « Un échec n'empêche pas la réussite future » (proverbe) </td>
     <td>1</td>
  <td><a href="https://twitter.com/loick973">loick973</a></td>
   </tr>
