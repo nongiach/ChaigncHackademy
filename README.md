@@ -33,6 +33,41 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <th>Etudiants</th>
     <th>Pseudo</th>
   </tr>
+     <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
+    <td>9</td>
+    <td>
+      Adama,
+      ahouefa
+      agretsuko_susanoo66,
+     <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
+      geth1s_One$, 
+      <a href="https://twitter.com/hbyghs"> hbygh</a>
+      <a href="https://twitter.com/Xwxlxe">Siegried</a>,
+      tisemtine,
+      <a href="https://twitter.com/banybah">selom</a>
+     </td>
+  </tr>
+     <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
+    <td>2</td>
+    <td>notorious.r.a.c, saxx</td>
+  </tr>
+   <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
+    <td>1</td>
+    <td><a href="https://twitter.com/chaignc">@chaignc</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> « Un échec n'empêche pas la réussite future » (proverbe) </td>
+    <td>1</td>
+    <td><a href="https://twitter.com/loick973">loick973</a></td>
+ </tr>
+ <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
+    <td>1</td>
+    <td>sosso</td>
+  </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>13</td>
@@ -52,45 +87,10 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
     </td>
   </tr>
-     <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
-    <td>1</td>
-    <td>sosso</td>
-  </tr>
-    <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>9</td>
-    <td>
-      Adama,
-      ahouefa
-      agretsuko_susanoo66,
-     <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
-      geth1s_One$, 
-      <a href="https://twitter.com/hbyghs"> hbygh</a>
-      <a href="https://twitter.com/Xwxlxe">Siegried</a>,
-      tisemtine,
-      <a href="https://twitter.com/banybah">selom</a>
-     </td>
-  </tr>
-    <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
-    <td>2</td>
-    <td>notorious.r.a.c, saxx</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
-    <td>1</td>
-    <td><a href="https://twitter.com/chaignc">@chaignc</a></td>
-  </tr>
   <tr>
     <td><img src="" width="20"> ?</td>
     <td>1</td>
     <td>guyak89</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> « Un échec n'empêche pas la réussite future » (proverbe) </td>
-    <td>1</td>
-    <td><a href="https://twitter.com/loick973">loick973</a></td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
