@@ -64,8 +64,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
       Adama,
       ahouefa
       agretsuko_susanoo66,
-      Ambroise,
-     <a href="https://twitter.com/ambroisevega">L4NT3RN_chk</a>
+     <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>;
       geth1s_One$, 
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
