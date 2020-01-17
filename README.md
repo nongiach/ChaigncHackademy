@@ -71,7 +71,6 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
       tisemtine,
       <a href="https://twitter.com/banybah">selom</a>
      </td>
-    <td>7</td>
   </tr>
     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
@@ -89,13 +88,13 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>guyak89</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> N/A</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> </td>
     <td>1</td>
  <td><a href="https://twitter.com/loick973">loick973</a></td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>27</td>
+    <td>28</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
