@@ -38,9 +38,9 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>13</td>
     <td>
     3l4un1ck,
-    ahouefa,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
-    Cyr,
+    <a href="https://twitter.com/AhouefaC">Ahouefa_chk</a>,
+     <a href="https://twitter.com/cyrusgnimadi">Cyr</a>,
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
@@ -62,7 +62,6 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td>9</td>
     <td>
       Adama,
-      ahouefa
       agretsuko_susanoo66,
       Ambroise,
       geth1s_One$,
