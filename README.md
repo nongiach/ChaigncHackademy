@@ -72,6 +72,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>13</td>
     <td>
+   <a href="https://twitter.com/PlacideRed">@PlacideRed</a>,
     3l4un1ck,
     ahouefa,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
@@ -81,7 +82,6 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
     Lolhack,<br>
     <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
-    Placide_RED,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
