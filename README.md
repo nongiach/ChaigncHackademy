@@ -70,11 +70,12 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>13</td>
+    <td>14</td>
     <td>
     3l4un1ck,
     ahouefa,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
+    <a href="https://twitter.com/DelanoTOLLO">Casper</a>,
     Cyr,
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
