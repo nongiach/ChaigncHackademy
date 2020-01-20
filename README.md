@@ -43,6 +43,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     Cyr,
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
+    <a href="https://twitter.com/sampay">sampay_chk</a>,
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
     Lolhack,<br>
     <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
