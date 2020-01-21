@@ -33,6 +33,26 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <th>Etudiants</th>
     <th>Pseudo</th>
   </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
+    <td>13</td>
+    <td>
+    3l4un1ck,
+    ahouefa,
+    <a href="http://twitter.com/charliagossou">charliepy</a>,
+    Cyr,
+    <a href="https://twitter.com/o_yeou">Emiya</a>,
+    <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
+    <a href="https://twitter.com/sampay">sampay_chk</a>,
+    <a href="https://twitter.com/LickosA">Kyb3R</a>,
+    Lolhack,<br>
+    <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
+    Placide_RED,
+    <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
+    <a href="https://twitter.com/arielalinkan">Rozzario</a>,
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
+    </td>
+  </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
     <td>9</td>
