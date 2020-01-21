@@ -15,8 +15,9 @@ Date: de 22h à 1H00 le 17/12/2019
 * Explication d'outil d'énumération de chemin web avec wfuzz et gobuster.
 
 ## Résultat TP Day01
-* Réussi:     Placide_RED, ken_dji, sancelisso, Emiya, Siegfried, Rhackelle26, guyak89, PH03N1X, Lolhack, hbygh, notorious.r.a.c, selom, 3l4un1ck,sosso, Cyr, Ahouefa, tisemtine, Ambroise
-* En Cours: agretsuko_susanoo66, geth1s_One$,
+* Réussi:     Placide_RED, ken_dji, sancelisso, Emiya, Siegfried, Rhackelle26, guyak89, PH03N1X, Lolhack, hbygh, notorious.r.a.c, selom, 3l4un1ck,sosso, Cyr, Ahouefa, tisemtine, Ambroise, L4NT3RN_chk🇹🇬, lo_chk, sampay, Géovanni,
+Steel Heart, charliepy, H4CK3D, Rozzario, Mr_John, papi, mugiwara,
+* En Cours: agretsuko_susanoo66, geth1s_One$,Théo, yolande
 
 ## Outils présentés
 
