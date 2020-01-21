@@ -31,8 +31,9 @@ Date: de 21H25 à 00H22 le 23/12/2019
 
 
 ## Résultat TP Day05
-* Réussi: [@Kyb3R](https://twitter.com/LickosA), [@hbygh](https://twitter.com/etechaf), [@selom](https://twitter.com/banybah), [@Placide_RED](https://twitter.com/Placide_RED), [@guyak89](https://twitter.com/), [@Emiya](https://twitter.com/), [@Siegfried](https://twitter.com/Xwxlxe), [@ph03nix](https://twitter.com/mmnzv), [@tisemtine](https://twitter.com/tisemtine), [@sancelisso](https://twitter.com/LissanonCedric), [@Rhackelle26](https://twitter.com/) ,[@Cyr](https://twitter.com/) ,
-* En Cours: [@ken_dji](https://twitter.com/), [@sancelisso](https://twitter.com/LissanonCedric),
+* Réussi: [@Kyb3R](https://twitter.com/LickosA), [@hbygh](https://twitter.com/etechaf), [@selom](https://twitter.com/banybah), [@Placide_RED](https://twitter.com/Placide_RED), [@guyak89](https://twitter.com/), [@Emiya](https://twitter.com/), [@Siegfried](https://twitter.com/Xwxlxe), [@ph03nix](https://twitter.com/mmnzv), [@tisemtine](https://twitter.com/tisemtine), [@sancelisso](https://twitter.com/LissanonCedric), [@Rhackelle26](https://twitter.com/) ,[@Cyr](https://twitter.com/) ,tisemtine,  ph03nix,
+[@ken_dji](https://twitter.com/), lo_chk, ahouefa, sampay, Rozzario, L4NT3RN_chk🇹🇬, Casper, Juni19, charliepy
+* En Cours: 
 
 ## Outils présentés
 
