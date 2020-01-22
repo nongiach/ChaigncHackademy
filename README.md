@@ -87,6 +87,8 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
      <a href="https://twitter.com/sampay">sampay_chk</a>,
+      <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
+
     </td>
   </tr>
   <tr>
