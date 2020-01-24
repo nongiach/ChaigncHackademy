@@ -70,7 +70,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>15</td>
+    <td>16</td>
     <td>
     3l4un1ck,
     ahouefa,
@@ -82,13 +82,12 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
     Lolhack,<br>
     <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
-     <a href="https://twitter.com/PlacideRed">@Placide_RED</a>,,
+    <a href="https://twitter.com/PlacideRed">@Placide_RED</a>,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
-     <a href="https://twitter.com/sampay">sampay_chk</a>,
-      <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
-
+    <a href="https://twitter.com/sampay">sampay_chk</a>,
+    <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
     </td>
   </tr>
   <tr>
@@ -98,7 +97,7 @@ Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vou
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>29</td>
+    <td>30</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
