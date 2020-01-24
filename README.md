@@ -5,7 +5,7 @@ Bonjour,
 le *15/12/2019* nous avons ouvert ChaigncHackademy, une académie en ligne gratuite pour la jeunesse du continent Africain.
 L'objectif est de former la future élite Africaine en matière de CyberDefense.
 
-Chaque soir du lundi au vendredi, nous entreprenons une conférence de 22H heure française jusqu'a 1H am pour expliquer les concepts de la CyberSécurité afin d'apprendre à défendre les infrastructures. Ceci faisant, nous explorons les bases de l'informatique, protocoles HTTP, DNS, FTP, DNSSEC, LDAP, SSH,  avec Burp et Wireshark, du reverse, de la crypto, de la Forensic et bien plus encore...
+Plusieurs soirs dans la semaine nous entreprenons une conférence 21H30/23h00 heure française afin d'aborder les concepts de la CyberSécurité et d'apprendre à défendre les infrastructures. Ceci faisant, nous explorons les bases de l'informatique, protocoles HTTP, DNS, FTP, DNSSEC, LDAP, SSH,  avec Burp et Wireshark, du reverse, de la crypto, de la Forensic et bien plus encore...
 
 La pièce maitresse de ce mentoring est son passage par la pratique. Chaque jour un exercice est donné pour le jour suivant et un étudiant présente le jour d'aprés sa procédure pour réussir l'exercice.
 
@@ -23,7 +23,7 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
 
 
-Nous comptons déjà 24 heures de conférences à ce jour (12/01/2020), si **vous** avez 10 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
+Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vous** avez 10 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
 
 #### Pays des membres actifs
 
