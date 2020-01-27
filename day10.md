@@ -1,7 +1,5 @@
-# ChaigncHackademy Day11
+# ChaigncHackademy Day10
 Session donné par [@chaignc][@chaignc].
-
-Contributeur externe: [][]
 
 Date: de 21H35 à 23H00 le 27/01/2020
 
@@ -10,9 +8,9 @@ Date: de 21H35 à 23H00 le 27/01/2020
 
 * Presentation du TP par: @ph03nix
 
-## Résultat TP Day11
-* Réussi:
-* En Cours:
+## Résultat TP Day10
+* Réussi: Casper, sancelisso, Rhackelle, ph03nix, Siegfried, lo_chk, tisemtine, sampay, ken_dji, Kyb3R
+* En Cours: 
 
 ## Outils présentés
 tryhackme
