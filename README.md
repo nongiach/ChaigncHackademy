@@ -45,6 +45,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
+      <a href="https://twitter.com/papilove2011">papilove2011</a>,
       <a href="https://twitter.com/banybah">selom</a>
      </td>
   </tr>
