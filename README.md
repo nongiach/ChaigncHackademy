@@ -75,7 +75,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="http://twitter.com/3l4un1ck">3l4un1ck</a>,
     ahouefa,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
-    <a href="https://twitter.com/DelanoTOLLO">Casper</a>,
+    <a href="https://twitter.com/__Casper">Casper</a>,
     Cyr,
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
