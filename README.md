@@ -83,6 +83,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     Lolhack,<br>
     <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
     <a href="https://twitter.com/PlacideRed">@Placide_RED</a>,
+      <a href="https://twitter.com/iam_binyv?s=09">BinYv</a>,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
