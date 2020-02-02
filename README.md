@@ -45,7 +45,6 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
-      <a href="https://twitter.com/papilove2011">papilove2011</a>,
       <a href="https://twitter.com/banybah">selom</a>
      </td>
   </tr>
@@ -104,12 +103,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/langfr-225px-Flag_of_Gabon.svg.png" width="20"> Gabon<br>« union - travail -justice »</td>
     <td>1</td>
-     <a href="https://twitter.com/papilove2011">papilove2011</a>,
-    <td></td>
+    <td>
+    <a href="https://twitter.com/papilove2011">papilove2011</a>
+    </td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>36</td>
+    <td>37</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
