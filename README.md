@@ -88,7 +88,6 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
     <a href="https://twitter.com/sampay">sampay_chk</a>,
-    <a href="https://twitter.com/papilove2011">papilove2011</a>,
     <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
     <a href="https://twitter.com/_Spider114">Spider</a>,
     </td>
@@ -97,6 +96,12 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td><img src="" width="20"> ?</td>
     <td>1</td>
     <td>guyak89</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png"> Burkina Faso<br>« union - travail -justice »</td>
+    <td>1</td>
+ <a href="https://twitter.com/papilove2011">papilove2011</a>,
+    <td></td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
