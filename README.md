@@ -70,28 +70,32 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>21</td>
+    <td>23</td>
     <td>
     <a href="http://twitter.com/3l4un1ck">3l4un1ck</a>,
     ahouefa,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
     <a href="https://twitter.com/__Casper">Casper</a>,
     Cyr,
+    <br>
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
-    Lolhack,<br>
+    Lolhack,
     <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
+    <br>
     <a href="https://twitter.com/PlacideRed">@Placide_RED</a>,
-      <a href="https://twitter.com/iam_binyv">BinYv</a>,
+    <a href="https://twitter.com/iam_binyv">BinYv</a>,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
     <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
+    <br>
     <a href="https://twitter.com/sampay">sampay_chk</a>,
     <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
     <a href="https://twitter.com/_Spider114">Spider</a>,
     <a href="https://twitter.com/Casias161">Dele</a>,
     <a href="https://twitter.com/migdavid98">migdavid98</a>,
+    <br>
     <a href="https://twitter.com/Ray_Sdj">RaymSec</a>,
     <a href="https://twitter.com/Gd64808874">A69</a>,
     <a href="https://twitter.com/nwalk43341855">binwalk</a>,
@@ -111,7 +115,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>37</td>
+    <td>39</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
