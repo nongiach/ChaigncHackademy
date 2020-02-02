@@ -27,6 +27,7 @@ echo -e "test\ntutu\ntata\n" | grep test
 echo -e "test\ntutu\ntata\n" | grep "t.*a"
 echo -e "test\ntutu\ntata\n" | grep "a$"
 echo -e "test\ntutu\naaaa\n" | grep "^t"
+grep 'chaignchckademy' fichier1 fichier2 fichier3 fichier3 fichier4 
 cat /etc/issue
 pwd
 tshark -r Evil\ Elf.pcap -Y 'frame.number == 998' -T fields -e ip.dst
