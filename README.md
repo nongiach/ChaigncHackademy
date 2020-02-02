@@ -102,9 +102,9 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>guyak89</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png"> Burkina Faso<br>« union - travail -justice »</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/langfr-225px-Flag_of_Gabon.svg.png" width="20"> Gabon<br>« union - travail -justice »</td>
     <td>1</td>
- <a href="https://twitter.com/papilove2011">papilove2011</a>,
+     <a href="https://twitter.com/papilove2011">papilove2011</a>,
     <td></td>
   </tr>
   <tr>
