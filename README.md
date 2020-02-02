@@ -23,7 +23,7 @@ Merci aux contributeurs ci-dessous pour leurs interventions:
 * [@Grenadine][@Grenadine]
 
 
-Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vous** avez 10 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici][@chaignc].
+Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vous** avez 10 minutes pour expliquer un concept que vous maitrisez, contactez moi [ici:][@chaignc].
 
 #### Pays des membres actifs
 
@@ -45,6 +45,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
+      <a href="https://twitter.com/papilove2011">papilove2011</a>,
       <a href="https://twitter.com/banybah">selom</a>
      </td>
   </tr>
@@ -86,7 +87,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       <a href="https://twitter.com/iam_binyv">BinYv</a>,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
-    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
     <a href="https://twitter.com/sampay">sampay_chk</a>,
     <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
     <a href="https://twitter.com/_Spider114">Spider</a>,
@@ -101,8 +102,9 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>guyak89</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/langfr-225px-Flag_of_Gabon.svg.png" width="20"> Gabon<br>« UNION, TRAVAIL, JUSTICE »</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/langfr-225px-Flag_of_Gabon.svg.png" width="20"> Gabon<br>« union - travail -justice »</td>
     <td>1</td>
+     <a href="https://twitter.com/papilove2011">papilove2011</a>,
     <td></td>
   </tr>
   <tr>
