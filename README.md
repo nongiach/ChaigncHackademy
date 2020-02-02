@@ -92,7 +92,8 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/_Spider114">Spider</a>,
     <a href="https://twitter.com/Casias161">Dele</a>,
     <a href="https://twitter.com/migdavid98">migdavid98</a>,
-    <a href="https://twitter.com/Ray_Sdj">RaymSec</a>
+    <a href="https://twitter.com/Ray_Sdj">RaymSec</a>,
+    <a href="https://twitter.com/nwalk43341855">binwalk</a>,
     </td>
   </tr>
   <tr>
