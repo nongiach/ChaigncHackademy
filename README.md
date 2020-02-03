@@ -65,8 +65,8 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
  </tr>
  <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
-    <td>1</td>
-    <td>sosso</td>
+    <td>2</td>
+    <td>sosso, <a href="https://twitter.com/khaledoueder">K.Led</a></td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
@@ -115,7 +115,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>39</td>
+    <td>40</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
