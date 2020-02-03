@@ -98,7 +98,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/Ray_Sdj">RaymSec</a>,
     <a href="https://twitter.com/Gd64808874">A69</a>,
     <a href="https://twitter.com/nwalk43341855">binwalk</a>,
-    <a href=" https://twitter.com/ola_tunde_?s=09">ola_tunde_</a>,
+    <a href="https://twitter.com/ola_tunde_">ola_tunde_</a>,
     </td>
   </tr>
   <tr>
