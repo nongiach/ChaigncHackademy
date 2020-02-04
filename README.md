@@ -69,7 +69,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>sosso</td>
   </tr>
     <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"> Côte d'Ivoire <br>« Union - disciple - Travail »</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_C%C3%B4te_d%27Ivoire.svg"> Côte d'Ivoire <br>« Union - disciple - Travail »</td>
     <td>1</td>
   <td>
     <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>
