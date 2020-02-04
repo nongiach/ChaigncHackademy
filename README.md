@@ -68,6 +68,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>2</td>
     <td>sosso, <a href="https://twitter.com/khaledoueder">K.Led</a></td>
   </tr>
+    <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/320px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"> Côte d'Ivoire <br>« Union - disciple - Travail »</td>
+    <td>1</td>
+  <td>
+    <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>
+    </td>
+  </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>23</td>
