@@ -113,13 +113,6 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/papilove2011">papilove2011</a>
     </td>
   </tr>
-    <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"> Côte d'Ivoire <br>« Union - disciple - Travail »</td>
-    <td>1</td>
-  <td>
-    <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>
-    </td>
-  </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
     <td>39</td>
