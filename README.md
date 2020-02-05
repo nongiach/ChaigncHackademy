@@ -124,7 +124,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>40</td>
+    <td>44</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
