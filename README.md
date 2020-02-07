@@ -107,6 +107,8 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/nwalk43341855">binwalk</a>,
     <a href="https://twitter.com/ola_tunde_">ola_tunde_</a>,
     <a href="https://twitter.com/arsene_senou">arsene</a>,
+ 
+ 
  <a href="https://twitter.com/SamiouWarakpe">chidorichk</a>,
     </td>
   </tr>
@@ -124,7 +126,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>44</td>
+    <td>43</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
