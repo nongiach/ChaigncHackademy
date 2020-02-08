@@ -84,7 +84,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>27</td>
+    <td>26</td>
     <td>
     <a href="http://twitter.com/3l4un1ck">3l4un1ck</a>,   
     <a href="https://twitter.com/AhouefaC"> ahouefa</a>,
@@ -116,9 +116,24 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/arsene_senou">arsene</a>,
     <a href="https://twitter.com/Ansu1m">t1M€</a>,
     <a href="http://twitter.com/iamaub___ceezy">c33zy_15_r007</a>,
-  <a href="http://twitter.com/SamiouWarakpe">chidorichk</a>,
     </td>
   </tr>
+  <tr>
+ <!-- haiti -->
+    <td>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti
+     <br>« Liberté - Égalité - Fraternité » 
+    </td>
+ <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
+    <td>
+     1
+   </td>
+    <td>
+         <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
+    </td>
+ <!--  fin du commentaire -->
+  </tr>
+  <!-- fin haiti -->
   <tr>
     <td><img src="" width="20"> ?</td>
     <td>1</td>
@@ -126,7 +141,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>45</td>
+    <td>44</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
