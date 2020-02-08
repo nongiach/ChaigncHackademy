@@ -115,6 +115,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/ola_tunde_">ola_tunde_</a>,
     <a href="https://twitter.com/arsene_senou">arsene</a>,
     <a href="https://twitter.com/Ansu1m">t1M€</a>,
+    <a href="http://twitter.com/iamaub___ceezy">c33zy_15_r007</a>,
     </td>
   </tr>
   <tr>
