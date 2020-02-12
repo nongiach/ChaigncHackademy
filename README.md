@@ -137,11 +137,11 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <tr>
     <td><img src="" width="20"> ?</td>
     <td>1</td>
-    <td>guyak89</td>
+    <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>44</td>
+    <td>45</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
