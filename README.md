@@ -142,6 +142,11 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
   </tr>
   <tr>
+    <td><img src="https://www.google.com/search?q=algerie+drapeau&hl=fr&sxsrf=ACYBGNSNe97gVaKc-Ew3J3kFw5zKmTkO-w:1581710566946&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjTseuD69HnAhVeAGMBHZIVAXMQ_AUoAXoECBIQAw&biw=1920&bih=937#imgrc=ZsI5wIkdmJxPgM" width="20"> ?</td>
+    <td>1</td>
+    <td><a href="https://twitter.com/MezianeOuabdes1">@Giyu</a></td>
+  </tr>
+  <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
     <td>45</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
