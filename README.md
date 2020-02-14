@@ -125,8 +125,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti
      <br>« Liberté - Égalité - Fraternité » 
-   </td>
-    
+    </td>
  <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
     <td>
      1
@@ -141,13 +140,6 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td><img src="" width="20"> ?</td>
     <td>1</td>
     <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
-  </tr>
-  
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" width="20">Algérie
-    <br>« Par le Peuple et pour le Peuple » 
-    <td>1</td>
-    <td><a href="https://twitter.com/MezianeOuabdes1">@Giyu</a></td>
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
