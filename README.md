@@ -123,7 +123,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <tr>
  <!-- haiti -->
     <td>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti</th>
      <br>« Liberté - Égalité - Fraternité » 
      
     </td>
