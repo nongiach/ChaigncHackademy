@@ -143,7 +143,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" width="20">Algerie</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" width="20">Algérie</td>
     <br>« Par le Peuple et pour le Peuple » 
     <td>1</td>
     <td><a href="https://twitter.com/MezianeOuabdes1">@Giyu</a></td>
