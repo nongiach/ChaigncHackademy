@@ -151,6 +151,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td><a href="https://twitter.com/MezianeOuabdes1">@Giyu</a></td>
   </tr>
   <tr>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Congo_DR_Flag.svg/200px-Congo_DR_Flag.svg.png" width="20"> RD Congo
+   <br>« Paix Justice Travail »
+  </td>
+ <td>1</td>
+ <td><a href="https://twitter.com/kantogame94">@kantogame94</a></td>
+ </tr>
+  <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
     <td>47</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
