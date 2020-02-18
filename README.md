@@ -1,4 +1,4 @@
-# ChaigncHackademy
+# ChaigncHackademy : « Éthique, Partage, Défense » 
 
 Bonjour,
 
