@@ -50,7 +50,6 @@ select * from table_name;
 * [FTP](https://www.webopedia.com/TERM/A/anonymous_FTP.html)
 * [Mysql](https://gist.github.com/hofmannsven/9164408)
 * [Mysql](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3 )
-* [DAY 11 COMPLETE VIDEO]( https://www.youtube.com/watch?v=XMkvO1ZV_-k)
 
 
 [@chaignc]:https://twitter.com/chaignc
