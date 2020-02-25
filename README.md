@@ -55,6 +55,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
      <a href="https://twitter.com/peul_bi">peul</a>
+     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>
      </td>
   </tr>
    <tr>
@@ -160,7 +161,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
  </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>47</td>
+    <td>48</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
