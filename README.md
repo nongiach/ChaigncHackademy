@@ -50,7 +50,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
-      <td>4</td>
+      <td>5</td>
     <td>notorious.r.a.c, saxx,learn20N
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
