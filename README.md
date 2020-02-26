@@ -40,12 +40,14 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       Adama,
       ahouefa
       agretsuko_susanoo66,
+     CRESUS_chk
      <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
       geth1s_One$, 
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
       <a href="https://twitter.com/banybah">selom</a>
+     <a href="https://twitter.com/CRESUS_chk">CRESUS</a>
      </td>
   </tr>
      <tr>
