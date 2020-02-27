@@ -83,6 +83,9 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <td>
     <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>
     </td>
+      <td>
+    <a href="https://twitter.com/TuxbeG">Tuxbe_chk</a>
+    </td>
   </tr>
  <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/20px-Flag_of_Burkina_Faso.svg.png"> Burkina Faso<br>« Unité - Progrès - Justice »</td>
