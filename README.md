@@ -79,11 +79,11 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/320px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" width="20"> Côte d'Ivoire <br>« Union - disciple - Travail »</td>
-    <td>1</td>
+    <td>2</td>
   <td>
     <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>,
     <a href="https://twitter.com/TuxbeG">Tuxbe_chk</a>
-    </td>
+   </td>
       
   </tr>
  <tr>
