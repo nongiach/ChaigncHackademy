@@ -82,7 +82,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>2</td>
   <td>
     <a href="https://twitter.com/@ChkMugiwara">@ChkMugiwara</a>,
-    <a href="https://twitter.com/TuxbeG">Tuxbe_chk</a>
+    <a href="https://twitter.com/TuxbeG">@Tuxbe_chk</a>
    </td>
       
   </tr>
