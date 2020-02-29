@@ -61,10 +61,32 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      </td>
   </tr>
    <tr>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Congo_DR_Flag.svg/200px-Congo_DR_Flag.svg.png" width="20"> RD Congo
+   <br>« Paix Justice Travail »
+  </td>
+ <td>1</td>
+ <td><a href="https://twitter.com/kantogame94">@kantogame94</a></td>
+ </tr>
+   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/200px-Flag_of_Madagascar.svg.png" width="20"> Madagascar<br> « Amour, patrie, progrès »</td>
     <td>1</td>
     <td><a href="https://twitter.com/chaignc">@chaignc</a></td>
   </tr>
+  <!-- haiti -->
+    <td>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti
+     <br>« Liberté - Égalité - Fraternité » 
+    </td>
+ <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
+    <td>
+     1
+   </td>
+    <td>
+         <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
+    </td>
+ <!--  fin du commentaire -->
+  </tr>
+  <!-- fin haiti -->
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/120px-Flag_of_French_Guiana.svg.png" width="20"> Guyane<br> « Un échec n'empêche pas la réussite future » (proverbe) </td>
     <td>1</td>
@@ -129,27 +151,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     </td>
   </tr>
   <tr>
- <!-- haiti -->
-    <td>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Haiti_flag_2020.png" width='20'>Haiti
-     <br>« Liberté - Égalité - Fraternité » 
-    </td>
- <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
-    <td>
-     1
-   </td>
-    <td>
-         <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
-    </td>
- <!--  fin du commentaire -->
-  </tr>
-  <!-- fin haiti -->
-  <tr>
-    <td><img src="" width="20"> ?</td>
-    <td>2</td>
-    <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
-  </tr>
-    <tr>
+     <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" width="20">Algérie
     <br>« Par le Peuple et pour le Peuple »
    </td>
@@ -157,15 +159,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td><a href="https://twitter.com/MezianeOuabdes1">@Giyu</a></td>
   </tr>
   <tr>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Congo_DR_Flag.svg/200px-Congo_DR_Flag.svg.png" width="20"> RD Congo
-   <br>« Paix Justice Travail »
-  </td>
- <td>1</td>
- <td><a href="https://twitter.com/kantogame94">@kantogame94</a></td>
- </tr>
+    <td><img src="" width="20"> ?</td>
+    <td>2</td>
+    <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
+  </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>48</td>
+    <td></td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
