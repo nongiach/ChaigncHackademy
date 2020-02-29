@@ -35,7 +35,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>9</td>
+    <td>11</td>
     <td>
       Adama,
       ahouefa
@@ -52,7 +52,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
-      <td>5</td>
+      <td>7</td>
     <td>notorious.r.a.c, saxx,learn20N
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
@@ -93,7 +93,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
-    <td>26</td>
+    <td>28</td>
     <td>
     <a href="http://twitter.com/3l4un1ck">3l4un1ck</a>,
     <a href="https://twitter.com/AhouefaC"> ahouefa</a>,
@@ -146,7 +146,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <!-- fin haiti -->
   <tr>
     <td><img src="" width="20"> ?</td>
-    <td>1</td>
+    <td>2</td>
     <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
   </tr>
     <tr>
