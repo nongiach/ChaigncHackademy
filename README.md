@@ -148,7 +148,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/Ansu1m">t1M€</a>,
     <a href="http://twitter.com/iamaub___ceezy">c33zy_15_r007</a>,
     <a href="https://twitter.com/Maurice2mrc">maurishio-chk</a>,
-    <a href="https://twitter.com/Liliane">Lola-chk</a>,
+    <a href="https://twitter.com/@Liliane43898029">Lola-chk</a>,
     </td>
   </tr>
   <tr>
