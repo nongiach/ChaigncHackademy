@@ -56,13 +56,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>notorious.r.a.c, saxx,learn20N
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
-     <a href="https://twitter.com/peul_bi">peul</a>
-     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>
+     <a href="https://twitter.com/peul_bi">peul</a>,
+     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>,
      </td>
   </tr>
    <tr>
   <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Congo_DR_Flag.svg/200px-Congo_DR_Flag.svg.png" width="20"> RD Congo
-   <br>« Paix Justice Travail »
+   <br>« Paix-Justice-Travail »
   </td>
  <td>1</td>
  <td><a href="https://twitter.com/kantogame94">@kantogame94</a></td>
@@ -169,7 +169,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>guyak89,<a href="https://twitter.com/polivanm">pyrus</a></td>
   </tr>
   <tr>
-    <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
+    <td>ChaigncHackademy <br>« ETHIQUE, PARTAGE , DEFENSE » </td>
     <td>57</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
