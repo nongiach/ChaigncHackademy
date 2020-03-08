@@ -154,6 +154,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/Maurice2mrc">maurishio-chk</a>,
     <a href="https://twitter.com/dilag_luc">@dilag_luc</a>
      <a href="https://twitter.com/Liliane43898029">Lola-chk</a>,
+ <a href="https://twitter.com/wilson_vlavonou">wilfried .ack</a>,
     <br>
     </td>
   </tr>
