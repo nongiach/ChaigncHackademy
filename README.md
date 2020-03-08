@@ -57,7 +57,8 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
      <a href="https://twitter.com/peul_bi">peul</a>
-     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>
+     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>,
+      <a href="https://twitter.com/ithiou">ithiou</a>
      </td>
   </tr>
    <tr>
