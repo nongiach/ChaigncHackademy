@@ -35,12 +35,13 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>11</td>
+    <td>12</td>
     <td>
       Adama,
       ahouefa
       agretsuko_susanoo66,
      CRESUS_chk
+     speroh
      <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
       geth1s_One$, 
       <a href="https://twitter.com/hbyghs"> hbygh</a>
@@ -48,6 +49,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
       <a href="https://twitter.com/banybah">selom</a>
      <a href="https://twitter.com/CRESUS_chk">CRESUS</a>
+     <a href="https://twitter.com/KossiSokpo">speroh</a>
      </td>
   </tr>
      <tr>
@@ -153,6 +155,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <a href="https://twitter.com/Maurice2mrc">maurishio-chk</a>,
     <a href="https://twitter.com/dilag_luc">@dilag_luc</a>
      <a href="https://twitter.com/Liliane43898029">Lola-chk</a>,
+ <a href="https://twitter.com/wilson_vlavonou">wilfried .ack</a>,
     <br>
     </td>
   </tr>
