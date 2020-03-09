@@ -35,29 +35,34 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>11</td>
+    <td>12</td>
     <td>
-      Adama,
-      ahouefa
-      agretsuko_susanoo66,
-     CRESUS_chk
+     Adama,
+     ahouefa,
+     agretsuko_susanoo66,
+     CRESUS_chk,
+     Lesok09
      <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
       geth1s_One$, 
-      <a href="https://twitter.com/hbyghs"> hbygh</a>
+      <a href="https://twitter.com/hbyghs"> hbygh</a>,
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
-      <a href="https://twitter.com/banybah">selom</a>
-     <a href="https://twitter.com/CRESUS_chk">CRESUS</a>
+      <a href="https://twitter.com/banybah">selom</a>,
+     <a href="https://twitter.com/CRESUS_chk">CRESUS</a>,
+     <a href="https://twitter.com/kossel09">Lesok09</a>
+     <a href="https://twitter.com/Noxavino_chk">Noxavino</a>
+     <a href="https://twitter.com/KossiSokpo">speroh</a>
      </td>
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png"> Sénégal<br> « Un Peuple - Un But - Une Foi »</td>
-      <td>7</td>
+      <td>8</td>
     <td>notorious.r.a.c, saxx,learn20N
      <a href = "https://twitter.com/Foulokndiaye"> Foulok </a>,
      <a href="https://twitter.com/abou_tayib">abou_tayib</a>,
      <a href="https://twitter.com/peul_bi">peul</a>
-     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>
+     <a href="https://twitter.com/_Mugirawa_">mugirawa</a>,
+      <a href="https://twitter.com/ithiou">ithiou</a>
      </td>
   </tr>
    <tr>
@@ -116,39 +121,45 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>30</td>
+ 
     <td>
     <a href="http://twitter.com/3l4un1ck">3l4un1ck</a>,
     <a href="https://twitter.com/AhouefaC"> ahouefa</a>,
     <a href="http://twitter.com/charliagossou">charliepy</a>,
     <a href="https://twitter.com/__Casper">Casper</a>,
+    <br>
     <a href="http://twitter.com/cyrusgnimadi">Cyr</a>,
     <a href="https://twitter.com/o_yeou">Emiya</a>,
     <a href="https://twitter.com/ken_djiwan_chk">ken_dji_chk</a>,
     <a href="https://twitter.com/LickosA">Kyb3R</a>,
     Lolhack,
-    <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
     <br>
+    <a href="https://twitter.com/__Ph03n1x">ph03nix</a>,
     <a href="https://twitter.com/PlacideRed">@Placide_RED</a>,
     <a href="https://twitter.com/iam_binyv">BinYv</a>,
     <a href="https://twitter.com/rhackelle26">Rhackelle26</a>,
     <a href="https://twitter.com/arielalinkan">Rozzario</a>,
-    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
     <br>
+    <a href="https://twitter.com/LissanonCedric">Sancelisso</a>,
     <a href="https://twitter.com/sampay">sampay_chk</a>,
     <a href="https://twitter.com/chvkv_zxulu">chvkv_zxulu</a>,
     <a href="https://twitter.com/_Spider114">Spider</a>,
     <a href="https://twitter.com/Casias161">Dele</a>,
-    <a href="https://twitter.com/migdavid98">migdavid98</a>,
     <br>
+    <a href="https://twitter.com/migdavid98">migdavid98</a>,
     <a href="https://twitter.com/Ray_Sdj">RaymSec</a>,
     <a href="https://twitter.com/Gd64808874">A69</a>,
     <a href="https://twitter.com/nwalk43341855">binwalk</a>,
     <a href="https://twitter.com/ola_tunde_">ola_tunde_</a>,
+    <br>
     <a href="https://twitter.com/arsene_senou">arsene</a>,
     <a href="https://twitter.com/Ansu1m">t1M€</a>,
     <a href="http://twitter.com/iamaub___ceezy">c33zy_15_r007</a>,
     <a href="https://twitter.com/Maurice2mrc">maurishio-chk</a>,
-    <a href="https://twitter.com/Liliane43898029">Lola-chk</a>,
+    <a href="https://twitter.com/dilag_luc">@dilag_luc</a>
+     <a href="https://twitter.com/Liliane43898029">Lola-chk</a>,
+ <a href="https://twitter.com/wilson_vlavonou">wilfried .ack</a>,
+    <br>
     </td>
   </tr>
   <tr>
@@ -166,7 +177,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>59</td>
+    <td>60</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
