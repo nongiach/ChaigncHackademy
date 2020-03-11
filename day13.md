@@ -30,9 +30,6 @@ type ..\.. \Users\Administrator\Desktop\root.txt.txt
 
 ## Liens / Ressources
 
-* [Encryption](https://www.cloudflare.com/learning/ssl/what-is-encryption/)
-* [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
-
 [@chaignc]:https://twitter.com/chaignc
 [hexpresso]:https://hexpresso.github.io
 [@Grenadine]:https://twitter.com/Greynardine
