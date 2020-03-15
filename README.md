@@ -64,6 +64,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <a href="https://twitter.com/peul_bi">peul</a>
      <a href="https://twitter.com/_Mugirawa_">mugirawa</a>,
       <a href="https://twitter.com/ithiou">ithiou</a>
+     <a href="https://twitter.com/fallsouleymanex">fallsouleymane4k</a>
      </td>
   </tr>
    <tr>
