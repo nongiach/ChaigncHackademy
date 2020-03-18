@@ -53,7 +53,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <a href="https://twitter.com/kossel09">Lesok09</a>,
      <a href="https://twitter.com/Noxavino_chk">Noxavino</a>,
      <a href="https://twitter.com/KossiSokpo">speroh</a>,
-     <a href="https://twitter.com/Aymard99">aymardino</a> 
+     <a href="https://twitter.com/Aymard99">aymardino</a> ,
            <a href="https://twitter.com/django_chk">django_chk</a>
       </td>
   </tr>
