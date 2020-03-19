@@ -173,10 +173,11 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Algeria.png" width="20">Algérie
     <br>« Par le Peuple et pour le Peuple »
    </td>
-    <td>2</td>
+    <td>3</td>
     <td>
         <a href="https://twitter.com/MezianeOuabdes1">@Giyu</a>,
-        <a href="https://twitter.com/SalimLou3">@Salim_Lou</a>
+        <a href="https://twitter.com/SalimLou3">@Salim_Lou</a>, 
+        <a href="https://twitter.com/NoxlordA">Noxlord</a>
     </td>
   </tr>
   <tr>
@@ -186,7 +187,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>65</td>
+    <td>66</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
