@@ -35,7 +35,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>12</td>
+    <td>13</td>
     <td>
      Adama,
      ahouefa,
@@ -43,6 +43,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      CRESUS_chk,
      Lesok09  
      DJas
+     felixesso
      <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
       geth1s_One$, 
       <a href="https://twitter.com/hbyghs"> hbygh</a>,
@@ -55,6 +56,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
      <a href="https://twitter.com/KossiSokpo">speroh</a>,
      <a href="https://twitter.com/Aymard99">aymardino</a> 
            <a href="https://twitter.com/django_chk">djas</a>
+     <a href="htttps://twitter.com/@HemouF">felixesso</a>
       </td>
   </tr>
      <tr>
@@ -124,7 +126,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     <td>sosso, <a href="https://twitter.com/khaledoueder">K.Led</a></td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th> Bénin<br>« Fraternité - Justice - Travail » </td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/20px-Flag_of_Benin.svg.png"> </th>Bénin<br>« Fraternité - Justice - Travail » </td>
     <td>31</td>
     <td>
      <a href="https://twitter.com/SEITCHAJudicae1">king_J</a>,
@@ -187,7 +189,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>66</td>
+    <td>67</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
