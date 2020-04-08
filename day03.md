@@ -13,8 +13,7 @@ Date: de 22h à 00H00 le 18/12/2019
 
 ## Résultat TP Day3
 * Réussi: @hbygh, @Kyb3R, @sancelisso, @Rhackelle26, @selom, @Emiya, @Siegfried, @Ph03nix, @Placide_RED, @guyak89, ambroise, Cyr, ahouefa, lo_chk, sampay, Steel Heart, H4CK3D, charliepy, Rozzario, Géovanni, Casper, Juni19, blvckX, Gb2000
-* En Cours:mugiwara, abousayabou, 
-
+* En Cours:mugiwara, abousayabou, @DGElom
 ## Outils présentés
 
 dirsearch, wireshark, gobuster, wfuzz, openvpn
