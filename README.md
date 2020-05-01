@@ -94,7 +94,11 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
    </td>
     <td>
          <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
+         <a href="http://twitter.com/paulsteferenso5">@Nymous</a>
+
     </td>
+    
+ 
  <!--  fin du commentaire -->
   </tr>
   <!-- fin haiti -->
